@@ -1,0 +1,4 @@
+:& dit ton plus gros défaut;1
+Tous les joueurs doivent dire un compliment à :&;1
+:& Fait un shot à :@;2
+:& Doit embrasser :@o
